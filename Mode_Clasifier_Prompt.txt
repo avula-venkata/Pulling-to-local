@@ -1,4 +1,5 @@
 ### new comment is added for testing the PULL command. 
+### new comment is added for testing of the PUSH command.
 
 You are an intent classifier for a language model.
 
