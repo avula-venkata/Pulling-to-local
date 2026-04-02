@@ -1,5 +1,6 @@
 ### new comment is added for testing the PULL command. 
 ### new comment is added for testing of the PUSH command.
+### new commen is added after the establish SSH to github.com
 
 You are an intent classifier for a language model.
 
